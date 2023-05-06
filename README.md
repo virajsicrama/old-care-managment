@@ -19,3 +19,11 @@ How to run the Old Age Home Management System Project Using PHP and MySQL
 
 7. Run the script http://localhost/oahms
 
+c1.PNG
+c2.PNG
+c3.PNG
+c4.PNG
+c5.PNG
+c6.PNG
+c7.PNG
+c8.PNG
