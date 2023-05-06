@@ -1,5 +1,5 @@
 <!--header-->
-  <div class="strip"> </div>
+  <div class="strip" style="background:black;"> </div>
   <div class="header-top" id="home">
     <div class="container">
       <div class="head-section">
@@ -8,7 +8,7 @@
           
           <div class="abc ">
                   <!-- <a href="index.php"><img src="images/Elderly.png"  alt="" width="280" height="190" /></a> -->
-                  <h4 style="color: orange; text-align: center; border-right:none; margin-right: -54rem; font-size: 25px;">Old Age Home Management System</h4>
+                  <h4 style="color:#1b242f; text-align: center; border-right:none; margin-right: -54rem; font-size: 35px;">Old Age Home Management System</h4>
               </div>
               <!-- <div class="logo ">
                   <a href="index.php"><img src="images/Elderly.png"  alt="" width="280" height="190" /></a>
@@ -41,10 +41,7 @@
             <div class="clearfix"></div>
       </div>
         <div class="clearfix"></div>
-    <div class="sub-header" style=" 
-    background: #ff5a5f;
-   
-">
+    <div class="sub-header" style="background: #1f1edc; border-top: 5px solid#1b242f;">
     <!--start-top-nav-->
              <nav class="top-nav">
               <ul class="top-nav">

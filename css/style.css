@@ -105,9 +105,10 @@ ul.left-icons {
 	display:inline-block;
 	float:left;
 	list-style: none;
+	
 }
-.header-bottom{
-	background: url("../images/icons.png") no-repeat;
+/* .header-bottom{
+	background: url("../images/") no-repeat;
 	min-height: 32px;
 	width: 100%;
 	background-size: cover;
@@ -115,7 +116,7 @@ ul.left-icons {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	margin-bottom: 2.5em;
-}
+} */
 .header-slider {
 	border-top: 3px solid #DEDEDE;
 }

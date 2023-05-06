@@ -41,14 +41,9 @@ error_reporting(0);
 </div>	
 <div class="banner-section">
 	<div class="container">
-		<div class="banner-head" style="font-style:times;">
-			<h1>Old age home is shelter place for senior citizen </h1>
-			<p>when an unknown printer  took a galley of type and 
-			scrambled it to make a type specimen book.
-			when an unknown printer  took a galley of type and 
-			scrambled it to make a type specimen book.
-			when an unknown printer  took a galley of type and 
-			scrambled it to make a type specimen book.</p>
+		<div class="banner-head">
+			<h1 class="abc" style="font-family: 'Times New Roman', Times, serif;">Old age home is shelter place for senior citizen </h1>
+			<p>Old age homes offer a range of services, including medical care, meals, housekeeping, and personal care services such as bathing and dressing. Many also provide recreational and social activities to keep residents engaged and active.</p>
 		</div>
 	</div>
 </div>
@@ -56,7 +51,7 @@ error_reporting(0);
 				<div class="container">
 					<div class="welcom-grids">
 						<div class="col-md-6 welcom-grid-img">
-							<img src="images/v1.jpg" title="img" />
+							<img src="images/s.png" title="img" />
 						</div>
 						<div class="col-md-6 welcom-grid-text">
 							<?php
