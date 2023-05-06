@@ -2,7 +2,7 @@
 # old age home management system
 #Dashboard login
 username:Admin
-password:Test@123
+password:Viraj@123
 
 How to run the Old Age Home Management System Project Using PHP and MySQL
 1. Download the zip file
